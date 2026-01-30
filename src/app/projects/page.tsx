@@ -4,6 +4,15 @@ export default function Projects() {
       <div className="text-4xl font-semibold uppercase">
         Projects
       </div>
+      <h2 className="text-4xl font-semibold uppercase">
+        Mobile Apps
+      </h2>
+      <h2 className="text-4xl font-semibold uppercase">
+        ML Work
+      </h2>
+      <h2 className="text-4xl font-semibold uppercase">
+        Personal
+      </h2>
     </div>
   );
 }

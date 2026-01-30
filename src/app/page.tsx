@@ -72,16 +72,21 @@ export default function Home() {
   }, []);
 
   return (
-    <div
-      ref={containerRef}
-      className="relative h-[calc(100vh-3.5rem)] w-full overflow-hidden bg-zinc-50 font-sans dark:bg-black"
-    >
+    <div className="h-screen">
       <div
-        ref={dvdRef}
-        className="absolute left-0 top-0 text-4xl font-semibold uppercase"
+        ref={containerRef}
+        className="relative h-[calc(100vh-3.5rem)] w-full overflow-hidden bg-zinc-50 font-sans dark:bg-black"
       >
-        My awesome and cool website
+        <div
+          ref={dvdRef}
+          className="absolute left-0 top-0 text-4xl font-semibold uppercase"
+        >
+          ★
+        </div>
       </div>
+
+      <h1 className="w-full bg-zinc-50 p-8 font-sans dark:bg-black"> Welcome to Ethan's website </h1>
+      <h2 className="w-full bg-zinc-50 p-8 font-sans dark:bg-black"> Here is the site on the web of Ethan </h2>
     </div>
   );
 }

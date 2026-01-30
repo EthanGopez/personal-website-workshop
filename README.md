@@ -45,9 +45,14 @@ You can run either by prepending `npm run <script>` to them. For example, `npm r
 
 # Questions - MUST ANSWER TO BE ENTERED INTO RAFFLE!
 1. Briefly describe everything you've added on from the starter template.
-
+I've added my name, adjusted the metadata, and changed the text on the home screen.
 2. What's the first impression you want a website visitor to have about you? How does your website accomplish that?
-
+I want the user to be able to feel like they've been plesantly surprised by my creation. Whimsy. The bouncing star hopefully does that.
 3. What's your favorite part of the website you've made? What needs improvement?
-
+My favorite part is the part where it says my name. I should customize it further, but technical bugs stopped me
+from using npm correctly to visualize more complex changes.
 4. Where would you take your website in the future? Talk about additonal sections, aspirations, etc.
+I'd like to flesh out the projects page with acutal content beyond just titles. I'd like to also
+like to actually make the home page look better. I unfortunately ran out of 
+time to flesh out any further beyond basic edits
+due to technical issues for the first half hour and having to leave. Thanks for the workshop though!
